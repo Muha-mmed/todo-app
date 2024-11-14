@@ -22,3 +22,12 @@ This is a command-line To-Do application built in Go. It allows users to manage 
 1. Clone this repository or download the source code:
    ```bash
    git clone https://github.com/your-username/todo-app-go
+cd todo-app-go
+go run main.go
+
+1. Show To-dos
+2. Add To-do
+3. Update To-do
+4. Mark a To-do as completed
+5. Delete a To-do
+6. Exit To-do App
