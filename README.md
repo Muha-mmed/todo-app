@@ -24,7 +24,7 @@ This is a command-line To-Do application built in Go. It allows users to manage 
    git clone https://github.com/your-username/todo-app-go
 cd todo-app-go
 go run main.go
-
+### Usage
 1. Show To-dos
 2. Add To-do
 3. Update To-do
