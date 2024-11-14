@@ -25,7 +25,7 @@ This is a command-line To-Do application built in Go. It allows users to manage 
    
 ### Navigate to the project directory
 ```bash
-cd todo-app-go
+cd todo-app
 ```
 
 ### Run the application
