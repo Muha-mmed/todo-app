@@ -21,7 +21,7 @@ This is a command-line To-Do application built in Go. It allows users to manage 
 
 1. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/your-username/todo-app-go
+   git clone https://github.com/Muha-mmed/todo-app-go
    
 ### Navigate to the project directory
 ```bash
